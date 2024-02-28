@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Trufullantes.Trufullantes&left_color=dimgrey&right_color=deeppink"  />
-</div>
-
-###
-
 <h1 align="center">Hello World! 👋</h1>
 
 ###
@@ -64,4 +58,6 @@
 
 ###
 
-<br clear="both">
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Trufullantes.Trufullantes&left_text=Visitors&left_color=dimgrey&right_color=deeppink"  />
+</div>
