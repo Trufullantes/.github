@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Us</h3>
+<h3 align="left">👩‍💻  Sobre Nós</h3>
 
 ###
 
@@ -17,7 +17,7 @@
 ###
 
 <!-- Languages and tools -->
-<h3 align="left">🛠 Languages and tools</h3>
+<h3 align="left">🛠 Linguagens and Ferreamentas</h3>
 <!-- Icons -->
 <div align="left">
   <!-- Engiges Icons -->
@@ -55,7 +55,7 @@
 <br clear="both">
 
 <!-- Team Section -->
-<h3 align="left">Team</h3>
+<h3 align="left">Equipe</h3>
 <!-- Taable with Images and Links -->
 <table align="left">
   <tr align="center">
@@ -85,7 +85,3 @@
 ###
 
 <br clear="both">
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Trufullantes.Trufullantes&left_text=Visitors&left_color=dimgrey&right_color=deeppink"  />
-</div>
