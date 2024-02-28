@@ -22,32 +22,46 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
+
+<br clear="both">
+
+<!-- Icons -->
+<div>
+  <!-- Engiges Icons -->
+  <a href="https://unity.com/"><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Unity-Light.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Unity-Dark.svg" alt="Unity Engine" width=50px>
+  </picture></a>&nbsp;
+  <!-- Languages Icons -->
+  <a href="https://learn.microsoft.comr/dotnet/csharp/"><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/CS.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/CS.svg" alt="C# (C Sharp)" width=50px>
+  </picture></a>&nbsp;
+  <!-- Tools Icons -->
+  <a href="https://github.com/"><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Github-Light.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Github-Dark.svg" alt="Github" width=50px>
+  </picture></a>&nbsp;
+  <a href="https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription"><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Maya-Light.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Maya-Dark.svg" alt="Maya" width=50px>
+  </picture></a>&nbsp;
+  <a href="https://www.adobe.com/products/photoshop.html"><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Photoshop.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Photoshop.svg" alt="Photoshop" width=50px>
+  </picture></a>&nbsp;
+  <a href="https://www.adobe.com/products/illustrator.html"><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Illustrator.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/Illustrator.svg" alt="Illustrator" width=50px>
+  </picture></a>&nbsp;
+    <a href="https://www.adobe.com/products/substance3d-painter.html"><picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/SubstancePainter.svg" />
+    <img src="https://github.com/DvoraGames/dvoragames/blob/icons/SubstancePainter.svg" alt="Substance Painter" width=50px>
+  </picture></a>&nbsp;
+
+<br clear="both">
 
 ###
 
 <br clear="both">
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<p align="center">---</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Trufullantes/Trufullantes/output/snake.svg" alt="Snake animation" />
-
-###
