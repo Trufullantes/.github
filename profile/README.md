@@ -16,12 +16,10 @@
 
 ###
 
+<!-- Languages and tools -->
 <h3 align="left">🛠 Languages and tools</h3>
-
-<br clear="both">
-
 <!-- Icons -->
-<div>
+<div align="left">
   <!-- Engiges Icons -->
   <a href="https://unity.com/"><picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/DvoraGames/dvoragames/blob/icons/Unity-Light.svg" />
@@ -56,8 +54,9 @@
 
 <br clear="both">
 
-## Team
-
+<!-- Team Section -->
+<h3 align="left">Team</h3>
+<!-- Taable with Images and Links -->
 <table align="left">
   <tr align="center">
     <a href="https://github.com/DvoraGames"><td>
