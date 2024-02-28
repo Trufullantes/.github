@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">We are a little group</p>
+  <p align="left">Nós somos um pequeno grupo estudantil da FIAP, criamos esse grupo com o intuito de realizar as atividades em grupo.</p>
 
 ###
 
