@@ -56,7 +56,36 @@
 
 <br clear="both">
 
+## Team
+
+<table align="left">
+  <tr align="center">
+    <a href="https://github.com/DvoraGames"><td>
+      <img src="https://avatars.githubusercontent.com/DvoraGames" width="100px;"/><br/>
+      <sub><b>Gabriel E Dvoranen</sub>
+    </td></a>
+    <a href="https://github.com/Davi-codigos"><td>
+      <img src="https://avatars.githubusercontent.com/Davi-codigos" width="100px;"/><br/>
+      <sub><b>Davi De Lima</sub>
+    </td></a>
+    <a href="https://github.com/JhonnyMage"><td>
+      <img src="https://avatars.githubusercontent.com/JhonnyMage" width="100px;"/><br/>
+      <sub><b>João Paulo</sub>
+    </td></a>
+    <a href="https://github.com/VoliDaCoca"><td>
+      <img src="https://avatars.githubusercontent.com/VoliDaCoca" width="100px;"/><br/>
+      <sub><b>Rafael Cesar</sub>
+    </td></a>
+    <a href="https://github.com/?"><td>
+      <img src="https://avatars.githubusercontent.com/?" width="100px;"/><br/>
+      <sub><b>Willians Martins</sub>
+    </td></a>
+  </tr>
+</table>
+
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Trufullantes.Trufullantes&left_text=Visitors&left_color=dimgrey&right_color=deeppink"  />
