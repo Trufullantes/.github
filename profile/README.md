@@ -21,7 +21,7 @@
 ###
 
 <!-- Languages and tools -->
-<h3 align="left">🛠 Linguagens and Ferreamentas</h3>
+<h3 align="left">🛠 Linguagens e Ferreamentas</h3>
 <!-- Icons -->
 <div align="left">
   <!-- Engiges Icons -->
